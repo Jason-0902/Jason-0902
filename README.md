@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub 活動
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jason-0902&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jason-0902&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-0902&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
