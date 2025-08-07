@@ -2,8 +2,8 @@ name: Generate GitHub Snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 00:00 自動產生
-  workflow_dispatch:      # 可手動觸發
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -11,7 +11,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/Jason-0902
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # ✅ 加這個！
 
       - name: Generate Snake SVG & GIF
         uses: Platane/snk@v3
@@ -20,9 +22,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-ocean.gif?color_snake=#FFA500&color_dots=#b1d1fc,#64a1f4,#4b91f1,#3c7dd9,#375dbd
 
-      - name: Push snake animation to `output` branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
