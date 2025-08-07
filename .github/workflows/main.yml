@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/Jason-0902
 
       - name: Generate Snake SVG & GIF
         uses: Platane/snk@v3
