@@ -1,7 +1,7 @@
 ## I'm Jason
 
 ### Language and Tools
-<p align="center">
+<p>
 
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
