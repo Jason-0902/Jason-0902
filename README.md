@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub 活動
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+## 📈 Watch my GitHub contributions get eaten by a snake!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jason-0902&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jason-0902/Jason-0902/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jason-0902/Jason-0902/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jason-0902/Jason-0902/output/github-snake.svg" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-0902&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
