@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我只是試試
+## GitHub 活動
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jason-0902&theme=dark)](https://git.io/streak-stats)
