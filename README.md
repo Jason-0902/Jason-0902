@@ -58,11 +58,27 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jason-0902/Jason-0902/output/github-snake.svg" />
 </picture>
 
-## Connect With Me
+## Connect with me:
+
 <p>
-  <a href="mailto:jasons.tud48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Jason-0902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://youtube.com/your-channel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://discord.gg/your-invite" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
 </p>
 
 
