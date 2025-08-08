@@ -58,6 +58,12 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Jason-0902/Jason-0902/output/github-snake.svg" />
 </picture>
 
+## Connect With Me
+<p>
+  <a href="mailto:jasons.tud48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jason-0902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 
