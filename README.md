@@ -69,5 +69,10 @@
   </a>
 </p>
 
+### Pwn-College Writeups
+[![Pwn-College-Writeups](https://img.shields.io/badge/Pwn--College--Writeups-Repository-blue?style=flat-square)](https://github.com/Jason-0902/Pwn-college-writeup)
+[![GitHub stars](https://img.shields.io/github/stars/Jason-0902/Pwn-college-writeup?style=flat-square)](https://github.com/Jason-0902/Pwn-college-writeup/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Jason-0902/Pwn-college-writeup?style=flat-square)](https://github.com/Jason-0902/Pwn-college-writeup)
+
 
 
