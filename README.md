@@ -1,11 +1,5 @@
 ## I'm Jason
 
-## GitHub Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight" alt="Jason's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-0902&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### Language and Tools
 <p>
 
