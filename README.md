@@ -22,6 +22,9 @@
   <a href="mailto:jasons.tud48@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-444444?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/tsung-yen-liu-899675204">
+    <img src="https://img.shields.io/badge/LinkedIn-Tsung--Yen%20Liu-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
 </p>
 
 <p>
@@ -38,30 +41,60 @@
 
 ## `about`
 
-```txt
-name       : Jason Liu
-school     : Chung Yuan Christian University, CSIE
-interests  : software development, systems programming, cybersecurity fundamentals
-currently  : learning through small projects and technical notes
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-I am a computer science student at **Chung Yuan Christian University**.
+### Basic Info
 
-My current interests include **software development**, **systems programming**, and **cybersecurity fundamentals**.  
+| Field | Detail |
+|---|---|
+| Name | Jason Liu |
+| School | Chung Yuan Christian University, CSIE |
+| Status | Computer Science Student |
+| Current | Learning through small projects and technical notes |
+
+</td>
+<td width="50%" valign="top">
+
+### Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Software%20Development-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Systems%20Programming-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
 I enjoy learning through hands-on projects, debugging, reading documentation, and organizing what I have learned into notes or small tools.
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## `focus`
 
-```txt
-[+] Software development
-[+] Systems programming
-[+] Linux and command-line tools
-[+] Software testing and debugging
-[+] Cybersecurity fundamentals
-[+] Technical notes and project documentation
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Software Development</b>
+      <br/>
+      <sub>Programming fundamentals, small tools, and project documentation.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Systems Learning</b>
+      <br/>
+      <sub>Linux, C/C++, Rust basics, and operating system concepts.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Security Fundamentals</b>
+      <br/>
+      <sub>Cybersecurity exercises, debugging, and software testing practice.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
