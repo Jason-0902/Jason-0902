@@ -267,13 +267,16 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tsung-yen-liu-899675204">
-  <img src="https://img.shields.io/badge/LinkedIn-Tsung--Yen%20Liu-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="mailto:jasons.tud48@gmail.com">
+  <img src="https://img.shields.io/badge/jasons.tud48%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="mailto:jasons.tud48@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jasons.tud48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/>
+<br/>
+
+<sub>
+  Email is the best way to contact me.
+</sub>
 
 </div>
 
