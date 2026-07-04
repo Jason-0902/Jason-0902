@@ -8,7 +8,7 @@
 <br/>
 
 <h1>
-  <code>Jason Liu</code>
+  <code>Jason</code>
 </h1>
 
 <p>
