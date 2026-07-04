@@ -19,11 +19,8 @@
   <a href="https://github.com/Jason-0902">
     <img src="https://img.shields.io/badge/GitHub-Jason--0902-181717?style=flat-square&logo=github" />
   </a>
-  <a href="mailto:jasons.tud48@gmail.com">
+  <a href="mailto:jason.stu48@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-444444?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tsung-yen-liu-899675204">
-    <img src="https://img.shields.io/badge/LinkedIn-Tsung--Yen%20Liu-0A66C2?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
