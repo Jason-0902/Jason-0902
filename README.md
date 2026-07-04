@@ -109,23 +109,9 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 | Project | Description | Stack |
 |---|---|---|
-| [`wdf`](https://github.com/Jason-0902/wdf) | A small command-line tool for checking possible web exposure issues based on simple rules. | Go |
-| [`web-dork-fuzzer`](https://github.com/Jason-0902/web-dork-fuzzer) | An earlier version of my web exposure checking project. | Go |
 | [`Writing-an-OS-in-Rust-Learning-Project`](https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project) | A learning project based on operating system concepts and Rust. | Rust |
 | [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Personal notes and practice records from cybersecurity exercises. | C / Assembly |
 | `Autoware Fuzzing` | A research-related learning project involving fuzzing workflows and software testing. | AFL++ / C++ / ROS2 |
-
-</div>
-
----
-
-## `github stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jason-0902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-0902&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
