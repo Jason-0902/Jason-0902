@@ -11,7 +11,7 @@
 </h1>
 
 <p>
-  <em>Computer Science Student · Software Development · Systems Learning</em>
+  <em>Computer Science Student · Systems Learning · Software Development</em>
 </p>
 
 <p>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/status-learning-2ea44f?style=flat-square" />
 </p>
 
-<!-- Optional Banner Image -->
+<!-- Optional banner image -->
 <!-- Put your banner image at: assets/banner.png -->
 <!-- <img width="92%" src="./assets/banner.png" alt="banner" /> -->
 
@@ -36,12 +36,12 @@
 name       : Jason Liu
 school     : Chung Yuan Christian University, CSIE
 interests  : software development, systems programming, cybersecurity fundamentals
-currently  : learning, building small projects, and documenting my progress
+currently  : learning through small projects and documenting my progress
 ```
 
 I am a computer science student at **Chung Yuan Christian University**.
 
-My current interests include **software development**, **systems programming**, and **basic cybersecurity topics**.  
+My current interests include **software development**, **systems programming**, and **cybersecurity fundamentals**.  
 I enjoy learning through hands-on projects, debugging, reading documentation, and organizing what I have learned into notes or small tools.
 
 ---
@@ -117,6 +117,19 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 ---
 
+## `currently learning`
+
+```txt
+[+] C / C++ programming
+[+] Python development
+[+] Linux and command-line tools
+[+] Rust basics
+[+] Software testing and debugging
+[+] Systems and cybersecurity fundamentals
+```
+
+---
+
 ## `github contribution`
 
 <div align="center">
@@ -128,19 +141,6 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 </picture>
 
 </div>
-
----
-
-## `currently learning`
-
-```txt
-[+] C / C++ programming
-[+] Python development
-[+] Linux and command-line tools
-[+] Rust basics
-[+] Software testing and debugging
-[+] Systems and cybersecurity fundamentals
-```
 
 ---
 
