@@ -46,7 +46,7 @@
 
 | Field | Detail |
 |---|---|
-| Name | Jason Liu |
+| Name | Jason |
 | School | Chung Yuan Christian University, CSIE |
 | Status | Computer Science Student |
 | Current | Learning through small projects and technical notes |
