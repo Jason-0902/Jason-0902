@@ -210,14 +210,42 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 ## `currently learning`
 
-```txt
-[+] C / C++ programming
-[+] Python development
-[+] Linux environment and shell usage
-[+] Rust basics
-[+] Software testing and debugging
-[+] Systems and cybersecurity fundamentals
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>C / C++</b>
+      <br/>
+      <sub>Programming fundamentals and low-level concepts.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Python</b>
+      <br/>
+      <sub>Scripting, automation, and small development tools.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Linux Environment</b>
+      <br/>
+      <sub>Command-line usage, development setup, and debugging practice.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Rust Basics</b>
+      <br/>
+      <sub>Systems programming concepts and memory safety.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Software Testing</b>
+      <br/>
+      <sub>Testing workflows, debugging, and reliability-oriented practice.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Security Fundamentals</b>
+      <br/>
+      <sub>Cybersecurity exercises, notes, and basic analysis skills.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
