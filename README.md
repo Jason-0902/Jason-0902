@@ -25,7 +25,7 @@
 
 <!-- Banner Image -->
 <!-- Put your anime-style banner image at: assets/banner.png -->
-<img width="92%" src="./assets/banner.png" alt="banner" />
+<img width="92%" src="./assets/banner.jpg" alt="banner" />
 
 </div>
 
