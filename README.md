@@ -264,8 +264,8 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 <div align="center">
 
-<a href="mailto:jasons.tud48@gmail.com">
-  <img src="https://img.shields.io/badge/jasons.tud48%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:jason.stu48@gmail.com">
+  <img src="https://img.shields.io/badge/jason.stu48%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/>
