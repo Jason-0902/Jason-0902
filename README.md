@@ -11,39 +11,38 @@
 </h1>
 
 <p>
-  <em>CS Student · Systems Security · Fuzzing · Reverse Engineering</em>
+  <em>Computer Science Student · Software Development · Systems Learning</em>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/code-C%20%2F%20C%2B%2B-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/security-fuzzing-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/reverse-x86--64-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/learning-Rust-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/ctf-pwn-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/status-building-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/interests-Systems-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-learning-2ea44f?style=flat-square" />
 </p>
 
-<!-- Banner Image -->
-<!-- Put your anime-style banner image at: assets/banner.png -->
-<img width="92%" src="./assets/banner.jpg" alt="banner" />
+<!-- Optional Banner Image -->
+<!-- Put your banner image at: assets/banner.png -->
+<!-- <img width="92%" src="./assets/banner.png" alt="banner" /> -->
 
 </div>
 
 ---
 
-## `whoami`
+## `about me`
 
 ```txt
 name       : Jason Liu
 school     : Chung Yuan Christian University, CSIE
-focus      : systems security / software reliability / fuzzing
-interests  : CTF, reverse engineering, OS, binary analysis
-currently  : building security-related projects and preparing for graduate study
+interests  : software development, systems programming, cybersecurity fundamentals
+currently  : learning, building small projects, and documenting my progress
 ```
 
-I’m a computer science student interested in **systems security**, **fuzzing**, and **reverse engineering**.
+I am a computer science student at **Chung Yuan Christian University**.
 
-I like learning by building small tools, reading low-level code, debugging strange problems, and documenting the process.
+My current interests include **software development**, **systems programming**, and **basic cybersecurity topics**.  
+I enjoy learning through hands-on projects, debugging, reading documentation, and organizing what I have learned into notes or small tools.
 
 ---
 
@@ -104,17 +103,17 @@ I like learning by building small tools, reading low-level code, debugging stran
 
 ---
 
-## `projects`
+## `selected projects`
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| [`wdf`](https://github.com/Jason-0902/wdf) | A lightweight tool for checking Google dorking exposure risks. | Go |
-| [`web-dork-fuzzer`](https://github.com/Jason-0902/web-dork-fuzzer) | Early version of my web exposure fuzzing tool. | Go |
-| [`Writing-an-OS-in-Rust-Learning-Project`](https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project) | Learning operating system development with Rust. | Rust |
-| [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Notes and writeups from pwn.college practice. | C / Assembly |
-| `Autoware Fuzzing` | Research-oriented fuzzing project on ROS2-based autonomous driving software. | AFL++ / C++ / ROS2 |
+| [`wdf`](https://github.com/Jason-0902/wdf) | A small command-line tool for checking possible web exposure issues based on simple rules. | Go |
+| [`web-dork-fuzzer`](https://github.com/Jason-0902/web-dork-fuzzer) | An earlier version of my web exposure checking project. | Go |
+| [`Writing-an-OS-in-Rust-Learning-Project`](https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project) | A learning project based on operating system concepts and Rust. | Rust |
+| [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Personal notes and practice records from cybersecurity exercises. | C / Assembly |
+| `Autoware Fuzzing` | A research-related learning project involving fuzzing workflows and software testing. | AFL++ / C++ / ROS2 |
 
 </div>
 
@@ -149,12 +148,12 @@ I like learning by building small tools, reading low-level code, debugging stran
 ## `currently learning`
 
 ```txt
-[+] AFL++ and fuzzing workflows
-[+] Reverse engineering and binary exploitation
-[+] Rust for systems programming
-[+] Operating system internals
-[+] Secure software development
-[+] Research-oriented project documentation
+[+] C / C++ programming
+[+] Python development
+[+] Linux and command-line tools
+[+] Rust basics
+[+] Software testing and debugging
+[+] Systems and cybersecurity fundamentals
 ```
 
 ---
@@ -176,7 +175,7 @@ I like learning by building small tools, reading low-level code, debugging stran
 <div align="center">
 
 ```txt
-Build quietly. Break carefully. Learn deeply.
+Learning by building.
 ```
 
 </div>
