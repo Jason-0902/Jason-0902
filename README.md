@@ -22,9 +22,15 @@
   <img src="https://img.shields.io/badge/status-learning-2ea44f?style=flat-square" />
 </p>
 
-<!-- Optional banner image -->
-<!-- Put your banner image at: assets/banner.png -->
-<!-- <img width="92%" src="./assets/banner.png" alt="banner" /> -->
+<!--
+  Optional banner image.
+  Put your banner image at: assets/banner.png
+  Then remove the comment marks below.
+-->
+
+<!--
+<img width="92%" src="./assets/banner.png" alt="banner" />
+-->
 
 </div>
 
@@ -43,6 +49,19 @@ I am a computer science student at **Chung Yuan Christian University**.
 
 My current interests include **software development**, **systems programming**, and **cybersecurity fundamentals**.  
 I enjoy learning through hands-on projects, debugging, reading documentation, and organizing what I have learned into notes or small tools.
+
+---
+
+## `focus`
+
+```txt
+[+] Software development
+[+] Systems programming
+[+] Linux and command-line tools
+[+] Software testing and debugging
+[+] Cybersecurity fundamentals
+[+] Technical notes and project documentation
+```
 
 ---
 
@@ -105,15 +124,23 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 ## `selected projects`
 
-<div align="center">
+### Systems and low-level learning
 
 | Project | Description | Stack |
 |---|---|---|
 | [`Writing-an-OS-in-Rust-Learning-Project`](https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project) | A learning project based on operating system concepts and Rust. | Rust |
-| [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Personal notes and practice records from cybersecurity exercises. | C / Assembly |
-| `Autoware Fuzzing` | A research-related learning project involving fuzzing workflows and software testing. | AFL++ / C++ / ROS2 |
 
-</div>
+### Cybersecurity practice and notes
+
+| Project | Description | Stack |
+|---|---|---|
+| [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Personal notes and practice records from cybersecurity exercises. | C / Assembly |
+
+### Research-related learning
+
+| Project | Description | Stack |
+|---|---|---|
+| `Autoware Fuzzing` | A research-related learning project involving fuzzing workflows and software testing. | AFL++ / C++ / ROS2 |
 
 ---
 
@@ -122,7 +149,7 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 ```txt
 [+] C / C++ programming
 [+] Python development
-[+] Linux and command-line tools
+[+] Linux environment and shell usage
 [+] Rust basics
 [+] Software testing and debugging
 [+] Systems and cybersecurity fundamentals
