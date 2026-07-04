@@ -4,7 +4,8 @@
 
 <sub><code>Jason-0902 / README.md</code></sub>
 
-<br/><br/>
+<br/>
+<br/>
 
 <h1>
   <code>Jason Liu</code>
@@ -15,34 +16,36 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/code-C%20%2F%20C%2B%2B-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/learning-Rust-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/interests-Systems-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/status-learning-2ea44f?style=flat-square" />
+  <a href="https://github.com/Jason-0902">
+    <img src="https://img.shields.io/badge/GitHub-Jason--0902-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:jasons.tud48@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-444444?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tsung-yen-liu-899675204">
+    <img src="https://img.shields.io/badge/LinkedIn-Tsung--Yen%20Liu-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
 </p>
 
-<!--
-  Optional banner image.
-  Put your banner image at: assets/banner.png
-  Then remove the comment marks below.
--->
-
-<!--
-<img width="92%" src="./assets/banner.png" alt="banner" />
--->
+<p>
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-555555?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-learning-B7410E?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## `about me`
+## `about`
 
 ```txt
 name       : Jason Liu
 school     : Chung Yuan Christian University, CSIE
 interests  : software development, systems programming, cybersecurity fundamentals
-currently  : learning through small projects and documenting my progress
+currently  : learning through small projects and technical notes
 ```
 
 I am a computer science student at **Chung Yuan Christian University**.
@@ -67,80 +70,111 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 ## `language and tools`
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
-  </a>
-  &nbsp;
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" />
+      <br/>
+      <sub>C</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
+      <br/>
+      <sub>C++</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+      <br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
+      <br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+      <br/>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+      <br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+      <br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+      <br/>
+      <sub>Linux</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+      <br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VSCode" />
+      <br/>
+      <sub>VS Code</sub>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
-  </a>
-  &nbsp;
-
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" />
-  </a>
-  &nbsp;
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
-  </a>
-  &nbsp;
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
-  </a>
-  &nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-  </a>
-  &nbsp;
-
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
-  </a>
-  &nbsp;
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VSCode" />
-  </a>
-  &nbsp;
-
-  <a href="https://www.kernel.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" />
-  </a>
-  &nbsp;
-
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
-  </a>
-
-</p>
+</div>
 
 ---
 
 ## `selected projects`
 
-### Systems and low-level learning
-
-| Project | Description | Stack |
-|---|---|---|
-| [`Writing-an-OS-in-Rust-Learning-Project`](https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project) | A learning project based on operating system concepts and Rust. | Rust |
-
-### Cybersecurity practice and notes
-
-| Project | Description | Stack |
-|---|---|---|
-| [`Pwn-college-writeup`](https://github.com/Jason-0902/Pwn-college-writeup) | Personal notes and practice records from cybersecurity exercises. | C / Assembly |
-
-### Research-related learning
-
-| Project | Description | Stack |
-|---|---|---|
-| `Autoware Fuzzing` | A research-related learning project involving fuzzing workflows and software testing. | AFL++ / C++ / ROS2 |
+<table>
+  <tr>
+    <td width="28%">
+      <b>
+        <a href="https://github.com/Jason-0902/Writing-an-OS-in-Rust-Learning-Project">
+          Writing an OS in Rust
+        </a>
+      </b>
+    </td>
+    <td>
+      A learning project based on operating system concepts and Rust.
+      <br/>
+      <sub>Rust · OS concepts · systems learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%">
+      <b>
+        <a href="https://github.com/Jason-0902/Pwn-college-writeup">
+          Pwn College Writeup
+        </a>
+      </b>
+    </td>
+    <td>
+      Personal notes and practice records from cybersecurity exercises.
+      <br/>
+      <sub>C · Assembly · binary analysis notes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%">
+      <b>Autoware Fuzzing</b>
+    </td>
+    <td>
+      A research-related learning project involving fuzzing workflows and software testing.
+      <br/>
+      <sub>AFL++ · C++ · ROS2 · software testing</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -171,17 +205,19 @@ I enjoy learning through hands-on projects, debugging, reading documentation, an
 
 ---
 
-## `connect with me`
+## `contact`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsung-yen-liu-899675204" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jasons.tud48@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="42" height="42"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tsung-yen-liu-899675204">
+  <img src="https://img.shields.io/badge/LinkedIn-Tsung--Yen%20Liu-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:jasons.tud48@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-jasons.tud48%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
