@@ -2,8 +2,6 @@
 
 ---
 
-## `github contribution`
-
 <div align="center">
 
 <picture>
